@@ -1075,7 +1075,7 @@
 	body, input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
 		font-weight: 400;
-		color: #b3b3ce;
+		color: #fff;
 	}
 
 	body.is-loading * {
@@ -1091,7 +1091,7 @@
 
 	h1, h2, h3, h4, h5, h6 {
 		font-weight: 700;
-		color: #484d55;
+		color: #fff;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -1562,13 +1562,13 @@
 			}
 
 		.wrapper.style1 {
-			background: #d1d1e0 url("images/overlay.png");
+			background: #9EA6AC url("images/overlay.png");
 			color: #eee;
 			color: rgba(255, 255, 255, 0.75);
 		}
 
 			.wrapper.style1 .title {
-				background: #d1d1e0 url("images/overlay.png");
+				background: #9EA6AC url("images/overlay.png");
 				color: #fff;
 			}
 
@@ -1718,7 +1718,7 @@
 /* Intro */
 
 	#intro > .style2 {
-		font-weight: 700;
+		font-weight: 900;
 		color: #fff;
 		border-radius: 0.35em;
 		box-shadow: inset 0px 0px 1px 1px rgba(255, 255, 255, 0.25);
@@ -1736,7 +1736,7 @@
 	}
 
 		#highlights .highlight h3 {
-			color: #e97770;
+			color: #585C60;
 		}
 
 /* Copyright */
@@ -2013,6 +2013,7 @@
 				left: 0;
 				width: 100%;
 				text-align: center;
+				font-size: 20px;
 			}
 
 				#nav > ul {
