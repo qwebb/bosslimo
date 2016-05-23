@@ -1599,7 +1599,9 @@
 			}
 
 	#header-wrapper {
-		background: url("../../images/banner.jpg") center center;
+		/* background: url("../../images/banner.jpg") center center; */
+		background: url("http://i.imgur.com/XX0agzb.jpg") center center;
+
 		background-size: cover;
 	}
 
@@ -1706,12 +1708,12 @@
 	#logo h1 {
 		font-weight: 900;
 		text-transform: uppercase;
-		color: #fff;
+		color: #ddd;
 	}
 
 	#logo p {
-		color: #eee;
-		color: rgba(255, 255, 255, 0.5);
+		color: #ddd;
+	/*	color: rgba(255, 255, 255, 0.5); */
 		text-transform: uppercase;
 	}
 
@@ -1962,7 +1964,7 @@
 			}
 
 			#intro-wrapper {
-				padding-bottom: 8em;
+				padding-bottom: 10em;
 			}
 
 		/* Header */
@@ -2252,7 +2254,7 @@
 			}
 
 				#logo h1 {
-					font-size: 1.75em;
+					font-size: 2.25em;
 				}
 
 		/* Intro */
